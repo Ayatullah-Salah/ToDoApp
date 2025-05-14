@@ -1,4 +1,4 @@
-# Taskify 📋
+# Focusly 📋
 
 Welcome to Taskify, a task management app designed to streamline your productivity! 🚀
 

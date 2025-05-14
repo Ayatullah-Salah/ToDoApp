@@ -1,10 +1,10 @@
 # Focusly 📋
 
-Welcome to Taskify, a task management app designed to streamline your productivity! 🚀
+Welcome toFocusly, a task management app designed to streamline your productivity! 🚀
 
 ## Summary
 
-Taskify empowers you to efficiently manage your tasks with the following features:
+focusly empowers you to efficiently manage your tasks with the following features:
 
 1. ✅ **Adding Tasks:** Easily add new tasks to your to-do list. Input the task name, description, priority (choose from high, medium, or low), and watch as the app automatically timestamps the creation date.
 
@@ -26,4 +26,4 @@ In developing Taskify, we employed the following key skills:
 2. Implementing navigation controllers and tab bar controllers for seamless navigation.
 3. Creating a table view with custom cells for an intuitive user experience.
 
-Thank you for considering Taskify for your task management needs! 🙌
+Thank you for considering focusly for your task management needs! 🙌
